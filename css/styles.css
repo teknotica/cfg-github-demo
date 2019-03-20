@@ -1,0 +1,24 @@
+body {
+  background-color: antiquewhite;
+  font-size: 18px;
+}
+
+body > .container {
+  padding: 70px 15px 0;
+}
+
+.navbar-default {
+  background-color: #e3efee;
+  margin-bottom: 50px;
+}
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-brand {
+  color: #3c3c3c;
+}
+
+.img-circle {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
