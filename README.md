@@ -1,5 +1,5 @@
-# cfg-github-demo
+## Github demo repository (Code First Girls)
 
-## Github demo repository
+This code is being published using Github Page. See the page the [here](https://teknotica.github.io/cfg-github-demo/).
 
-This is the repo for the git demo 
+This page is using Bootstrap & jQuery.
