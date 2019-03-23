@@ -17,6 +17,12 @@ body > .container {
   color: #3c3c3c;
 }
 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: #b8d4d1;
+}
+
 .img-circle {
   width: 200px;
   height: 200px;
