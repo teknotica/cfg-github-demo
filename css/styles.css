@@ -28,3 +28,11 @@ body > .container {
   height: 200px;
   margin: auto;
 }
+
+.hide {
+  display: none;
+}
+
+.cats .row {
+  margin-bottom: 40px;
+}
