@@ -36,3 +36,27 @@ body > .container {
 .cats .row {
   margin-bottom: 40px;
 }
+
+#cats-page {
+  background-color: #fdffde;
+}
+
+#me-page {
+  background-color: #fad7e4;
+}
+
+h1, h2, h3 {
+  font-family: 'Germania One', cursive;
+}
+
+h1 {
+  font-size: 65px;
+}
+
+h1.underlined {
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Dosis', sans-serif;
+}
